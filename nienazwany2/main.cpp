@@ -4,7 +4,12 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+    cout << "siema!" << endl;
+    cout << "siema!" << endl;
+    cout << "siema!" << endl;
+    cout << "siema!" << endl;
+    cout << "siema!" << endl;
+
     return 0;
 }
 
